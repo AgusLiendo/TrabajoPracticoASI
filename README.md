@@ -1,8 +1,14 @@
-# Segunda Entrega - Trabajo Practico ASI
-Segunda entrega del trabajo práctico Incluye:
--Modelo de objeto del dominio del problema (MODP)
+# Tercer Entrega - Trabajo Practico ASI
 
-Fecha de entrega: 21/08/2024
+Tercer entrega del trabajo práctico Incluye:
+
+-Requerimientos no funcionales (RNF)
+
+-Diagrama de casos de uso (Escenciales y de soporte)
+
+Listado de objetivos de CU
+
+Fecha de entrega: 17/10/2024
 
 
 ## Trabajo practico de Análisis de sistemas de información - Grupo CA11 - UTN FRVM - 2024
