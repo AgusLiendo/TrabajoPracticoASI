@@ -1,0 +1,21 @@
+1- Restricción técnica de interoperabilidad - Conexión con sistema de DNRPA - El sistema debe ser capaz de comunicarse con el sistema de la Registros de la Propiedad Automotor para la verificación de la información de los vehículos.
+
+2- Seguridad lógica - Acceso mediante usuario y contraseña - El acceso al sistema solo esta permitido al personal autorizado para su uso, los cuales requieren de un usuario y contraseña para poder acceder.
+
+3-  Restricción de negocio legal - Cumplimiento de las leyes automotores - La información registrada y almacenada así como también la emisión de informes de revisión deben cumplir con las leyes dictadas por los organismos de regulación de vehículos automotores.
+
+4- Requerimiento del producto de Confiabilidad - Backup - El sistema debe contar con respaldos de información que permitan resguardar la misma ante cualquier eventualidad.
+
+5- Restricción Técnica de implementación - Plataforma web - El sistema debe ser accedido por el personal autorizado atreves de navegadores web.
+
+6- Requerimiento del producto de Confiabilidad - Tiempo de respuesta a fallos - En caso de una falla técnica el tiempo mínimo de reparación debe ser menor a 24hs.
+
+7- Interfaz de usuario - Interfaz Amigable - La interfaz de usuario debe ser fácil de comprender y usar para cualquier persona que comience a utilizarlo por primera vez.
+
+8- Performance concurrencia - Caja - El sistema debe ser capaz de soportar varios procesos de cobro en simultaneo.
+
+9- Performance tiempo de respuesta - Tiempo de espera para emisión de reportes - El tiempo de espera máximo para la emisión de cualquier reporte generado por el sistema no debe ser mayor a 5 minutos.
+
+10- Seguridad física - Confiabilidad de la información - La información almacenada en el sistema no puede ser modificada por cualquier persona y debe ser precisa.
+
+11- Restricción técnica - implementación - Almacenamiento de datos - La información de los vehículos, los resultados de la VTV, datos del cliente, cobros realizados y los informes emitidos son almacenados en una base de datos relacional  
