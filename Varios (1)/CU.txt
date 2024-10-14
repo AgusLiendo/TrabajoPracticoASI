@@ -1,0 +1,56 @@
+ESENCIALES
+
+1- Consultar turno: Brindar información sobre turnos obtenidos previamente para una revisión agendada.
+
+2- Registrar ticket de pago: Registrar un ticket con el importe a pagar por la revisión vehicular dependiendo del tipo de vehículo.
+
+3- Consultar documentación: Brindar información sobre la documentación de una persona o vehículo previamente registradas.
+
+4- Registrar documentación: Registrar la documentación del vehículo y/o personal de un interesado en realizar la revisión vehicular.
+
+5- Comprobar documentación: Comprobar la documentación del vehículo a través de una consulta al sistema de la DRNPA.
+
+6- Consultar ticket de pago: Brindar información sobre los tickets de pago generados para la realización de una inspección vehicular.
+
+7- Registrar cobro: Registrar el cobro de una inspección vehicular.
+
+8- Registrar revisión: Registrar una nueva revisión con la respectiva información del vehículo que la realiza y la fecha actual como fecha de realización.
+
+9- Generar y emitir informe de liquidación: Emitir un informe de todos los cobros realizados en un rango de tiempo especificado.
+
+10- Registrar medición de sección: Registrar la medición tomada por las maquinas de una sección de inspección.
+
+11- Consultar medición de sección: Brindar información sobre las mediciones de sección previamente registradas.
+
+12- Registrar defectos visuales: Registrar los defectos visuales encontrados durante la inspección.
+
+13- Consultar defectos visuales: Brindar información sobre los defectos visuales registrados previamente.
+
+14- Consultar revisión: Brindar información sobre toda la información de mediciones, defectos y datos del vehículo de una revisión registrada previamente.
+
+15- Registrar estado de revisión: Registrar una revisión como finalizada asignando el estado de finalización correspondiente y emitiendo el informe de la misma.
+
+16- Asignar oblea: En caso de aprobación asignar una oblea a la revisión finalizada.
+
+17- Consultar revisiones previas: Brindar información sobre el resultado de revisiones previas de un cliente.
+
+18- Reimprimir informe de revisión: Reimprimir un informe con todos los datos obtenidos durante la revisión vehicular.
+
+19- Generar y emitir reporte de resultados de inspección: Emitir un informe que contiene la siguiente información de cada revisión realizada en un rango de tiempo especificado: Fecha y hora de entrada a cada sección, Tiempo demorado en cada sección, tiempo total demorado para realizar una inspección, estado de finalización de la revisión.
+
+20- Generar y emitir informe de vehículos: Emitir un informe que contenga la información de los vehículos que realizaron una inspección vehicular incluyendo el estado de finalización de la misma en un rango de tiempo especificado.
+
+
+
+
+DE SOPORTE
+
+1- Registrar empleado: Registrar la información de un nuevo empleado teniendo en cuenta datos personales, nro de legajo y rol.
+
+2- Consultar empleado: Brindar información sobre los datos previamente registrados de un empleado.
+
+3- Registrar sección: Registrar una nueva sección de inspección teniendo en cuenta su nombre y las maquinas con las que cuenta.
+
+4- Registrar maquina: Registrar una nueva maquina de inspección teniendo en cuenta nombre, nro de serie y tipo de maquina.
+
+5- Actualizar precios de revisión: Actualizar el valor del precio a cobrar para la realización de una revisión de cada tipo de vehículo registrado.
