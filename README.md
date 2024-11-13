@@ -1,5 +1,5 @@
 
-![Logo](https://ingreso.frvm.utn.edu.ar/static/img/logo_portada.png)
+![Logo](https://assets.utnba.centrodeelearning.com/public-api/files/dc2d0f00bca3fa40ad36e0e4d873afbb/images)
 
 
 # Trabajo Práctico Integrador - Applus VTV
