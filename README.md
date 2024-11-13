@@ -1,12 +1,14 @@
-# Tercer Entrega - Trabajo Practico ASI
+# Cuarta Entrega - Trabajo Practico ASI
 
-Tercer entrega del trabajo práctico Incluye:
+Cuarta entrega del trabajo práctico Incluye:
 
--Requerimientos no funcionales (RNF)
+-Plantilla de descripcion de casos de uso (Registrar revision - Registrar finalizacion de revision - Consultar Empleado=
 
--Diagrama de casos de uso (Escenciales y de soporte)
+-Prototipos de interfaz (Registrar revision - Registrar finalizacion de revision)
 
-Listado de objetivos de CU
+-Diagrama de transicion de estado
+
+-ERS
 
 Fecha de entrega: 17/10/2024
 
